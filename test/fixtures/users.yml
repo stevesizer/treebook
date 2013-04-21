@@ -3,3 +3,9 @@ steve:
   last_name: "Sizer"
   email: "steve.sizer@gmail.com"
   profile_name: "stevesizer"
+
+paul:
+   first_name: "Paul"
+   last_name: "Sizer"
+   email: "paul@twinly.co.uk"
+   profile_name: "pauls"
